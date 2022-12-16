@@ -11,6 +11,7 @@ Sample programs using OpenAI API (completion and image generation)
 - Rename .env.sample to .env
 - Set OpenAI API key
 
+then, run :
 
     npm run completion
 or
