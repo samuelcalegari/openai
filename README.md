@@ -8,6 +8,10 @@ Sample programs using OpenAI API (completion and image generation)
 
 # Usage
 
+- Rename .env.sample to .env
+- Set OpenAI API key
+
+
     npm run completion
 or
 
