@@ -7,7 +7,6 @@ const configuration = new Configuration({
 });
 const openai = new OpenAIApi(configuration);
 
-
 const rl = readline.createInterface(process.stdin, process.stdout);
 
 rl.setPrompt(`Enter keywords to generate your image\n`);
